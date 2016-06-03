@@ -1,4 +1,4 @@
 # Summary
 
-* [Guidelines](Guidelines/PSC Event Guidelines)
+* [Guidelines](Guidelines/Guidelines.md)
 
