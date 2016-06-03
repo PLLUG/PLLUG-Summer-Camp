@@ -1,4 +1,4 @@
 # Summary
 
-* [Guidelines](Guidelines\Guidelines.md)
+* [Guidelines](.Guidelines\Guidelines.md/PSC Event Guidelines)
 
