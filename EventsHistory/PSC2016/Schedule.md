@@ -11,12 +11,12 @@
 
 | Important Date / Deadline | Description |
 | -- | -- |
-| June 12 | PSC Project Descriptions and List of Project HardTaskMasters must be ready |
-| June 21 | PLLUG Summer Camp 2016 Start, Projects Showcase, HardTaskMaster reports, Registration of participants |
-| June 21 - July 19 | First Development Iteration |
-| July 19 - August 16 | Second Development Iteration |
-| August 16 - September 13 | Third Development Iteration |
-| September 13 - September 17 | Project Demo Finalization, PSC2016 Retrospective |
-| September 17 | PSC2016 Project Demos |
+| **June 12** | PSC Project Descriptions and List of Project HardTaskMasters must be ready |
+| **June 21** | PLLUG Summer Camp 2016 Start, Projects Showcase, HardTaskMaster reports, Registration of participants |
+| **June 21 - July 19** | First Development Iteration |
+| **July 19 - August 16** | Second Development Iteration |
+| **August 16 - September 13** | Third Development Iteration |
+| **September 13 - September 17** | Project Demo Finalization, PSC2016 Retrospective |
+| **September 17** | PSC2016 Project Demos |
 
 
