@@ -1,4 +1,4 @@
 # Summary
 
-* [Guidelines](Guidelines)
+* [Guidelines](Guidelines\Guidelines.md)
 
