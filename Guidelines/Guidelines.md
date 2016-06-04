@@ -8,7 +8,7 @@
 
 # PSC Event Guidelines
 
-PLLUG Summer Camp is one of the most important events. It is a challenging development marathon for PLLUG participants that lasts during summer time. Our goal is to make work on PSC projects as close to real-life software development as possible. This will ensure that participants gain important experience and learn how to be a professional developer.
+PLLUG Summer Camp (we will use abbraviation "PSC" in our text) - is one of the most important events. It is a challenging development marathon for PLLUG participants that lasts during summer time. Our goal is to make work on PSC projects as close to real-life software development as possible. This will ensure that participants gain important experience and learn how to be a professional developer.
 
 ## Key Roles
 
