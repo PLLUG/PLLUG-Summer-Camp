@@ -9,6 +9,8 @@
 
 # PSC2016 Schedule
 
+Summer Camp 2016 will have 12 full development weeks. Project Demos will be presented September 17, 2016 - on Software Freedom Day.
+
 | Important Date / Deadline | Description |
 | -- | -- |
 | **June 12** | PSC Project Descriptions and List of Project HardTaskMasters must be ready |
