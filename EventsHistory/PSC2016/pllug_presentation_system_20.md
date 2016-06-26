@@ -32,4 +32,4 @@ PLLUG Presentation System 2.0 (PPS 2.0) is a software to create, show or view pr
 [https://github.com/PLLUG/pllug-presentation-system-2](https://github.com/PLLUG/pllug-presentation-system-2)
 
 **PSC2016 Slides:**
-
+[PLLUG Presentation System 2.0 Summer Camp Presentation 2016](https://drive.google.com/open?id=1AchZYvWH1r6ToJ_UevsIO5BzuRxabXZSKypiv2loWn8)
