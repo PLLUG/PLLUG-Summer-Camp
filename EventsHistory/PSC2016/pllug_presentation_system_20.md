@@ -26,6 +26,7 @@ Presentation software, Markdown Presentation
 [Alex Chmykhalo](https://github.com/orgs/PLLUG/people/alexchmykhalo), [Andrii Slisarchuk](https://github.com/orgs/PLLUG/people/Guitarheroua) 
 
 **Description:**
+PLLUG Presentation System 2.0 (PPS 2.0) is a software to create, show or view presentations. All presentation can be iported/saved from/to markdown ("*.md") format.
 
 **GitHub Repo:**
 [https://github.com/PLLUG/pllug-presentation-system-2](https://github.com/PLLUG/pllug-presentation-system-2)
