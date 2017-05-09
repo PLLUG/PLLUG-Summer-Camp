@@ -8,3 +8,51 @@
 
 # Pllug Summer Camp process 
 
+## Projects 
+
+Optionaly projects should have value for PLLUG or for free software community.
+
+## Glossary 
+
+* **hard task master (mentor)** - Person who responsible for students and project process.
+* **Milestone** - period of project coding should be finished by demo.
+* **Demo** - meeting when team demonstrate results of milestone. Everyone coult visit demo meeting of every team.
+
+## Preparation process
+
+Preparation should be started not less than 1 month before first summer camp meeting.
+
+## Responsibilities 
+
+**Mentor is responsible for:**
+
+* Development environment.
+* Repository in pllug organization on github.com.(https://github.com/PLLUG)
+* Clear project goals.
+* Milestones duration.
+* Clear tasks (user stories) before first meeting. Tasks should have business value.
+* Students should be technically ready to start coding.
+
+## First meeting
+
+All summer camp members should be present on this meeting.
+
+**Agenda:** 
+
+* Mentors present projects in couple slides.
+* Communication between members (Networking).
+
+## Camp process
+On Summer camp memebers resolve
+
+All summer camp should be splitted to Milestones but count of milestones should be not more than three.
+Duration of milestone should be not more than 1 month, All milestones should be finished with demo.
+
+
+
+
+
+
+
+
+
