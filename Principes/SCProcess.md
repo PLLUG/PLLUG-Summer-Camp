@@ -6,7 +6,7 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 
-# Pllug Summer Camp process 
+# PLLUG Summer Camp process 
 
 ## Projects 
 
@@ -14,7 +14,8 @@ Optionaly projects should have value for PLLUG or for free software community.
 
 ## Glossary 
 
-* **hard task master (mentor)** - Person who responsible for students and project process.
+* **PSC** - PLLUG Summer Camp.
+* **Hard Task Master (mentor)** - Person who responsible for students and project process.
 * **Milestone** - period of project coding should be finished by demo.
 * **Demo** - meeting when team demonstrate results of milestone. Everyone coult visit demo meeting of every team.
 
@@ -27,7 +28,7 @@ Preparation should be started not less than 1 month before first summer camp mee
 **Mentor is responsible for:**
 
 * Development environment.
-* Repository in pllug organization on github.com.(https://github.com/PLLUG)
+* Repository in [PLLUG organization ](https://github.com/PLLUG) on github.com.
 * Clear project goals.
 * Milestones duration.
 * Clear tasks (user stories) before first meeting. Tasks should have business value.
@@ -43,9 +44,8 @@ All summer camp members should be present on this meeting.
 * Communication between members (Networking).
 
 ## Camp process
-On Summer camp memebers resolve
 
-All summer camp should be splitted to Milestones but count of milestones should be not more than three.
+All summer camp should be splitted to milestones but count of milestones should be not less than three.
 Duration of milestone should be not more than 1 month, All milestones should be finished with demo.
 
 
