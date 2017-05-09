@@ -16,12 +16,12 @@ Optionaly projects should have value for PLLUG or for free software community.
 
 * **PSC** - PLLUG Summer Camp.
 * **Hard Task Master (mentor)** - Person who responsible for students and project process.
-* **Milestone** - period of project coding should be finished by demo.
-* **Demo** - meeting when team demonstrate results of milestone. Everyone coult visit demo meeting of every team.
+* **Milestone** - iteration of project development. It should be finished by demo.
+* **Demo** - meeting, when team demonstrate results of milestone. Everyone could visit demo meeting of every team.
 
 ## Preparation process
 
-Preparation should be started not less than 1 month before first summer camp meeting.
+Preparation should be started not less than 1 month before first Summer Camp meeting.
 
 ## Responsibilities 
 
@@ -36,17 +36,18 @@ Preparation should be started not less than 1 month before first summer camp mee
 
 ## First meeting
 
-All summer camp members should be present on this meeting.
+All Summer Camp Participants should be present on this meeting.
 
 **Agenda:** 
 
-* Mentors present projects in couple slides.
+* Mentors present projects in couple of slides.
 * Communication between members (Networking).
 
-## Camp process
+## PSC process
 
-All summer camp should be splitted to milestones but count of milestones should be not less than three.
-Duration of milestone should be not more than 1 month, All milestones should be finished with demo.
+* All summer camp should be splitted to milestones but count of milestones should be not less than three.
+* Duration of milestone should be not more than 1 month. 
+* All milestones should be finished with demo.
 
 
 
